@@ -1,0 +1,27 @@
+services:
+  - type: web
+    name: focusbot
+    env: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python main.py
+    envVars:
+      - key: DISCORD_TOKEN
+        sync: false
+      - key: GUILD_ID
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_KEY
+        sync: false
+      - key: SUPABASE_SECRET
+        sync: false
+      - key: VOICE_CHANNEL_PAUSE_ID
+        sync: false
+      - key: STATISTIQUES_CHANNEL_ID
+        sync: false
+      - key: GENERAL_CHANNEL_ID
+        sync: false
+      - key: CLASSEMENT_LIVE_CHANNEL_ID
+        sync: false
+      - key: MINIMUM_DAILY_MINUTES
+        value: 30 
