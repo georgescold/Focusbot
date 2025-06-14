@@ -6663,3 +6663,32 @@ TypeError: unsupported operand type(s) for -: 'datetime.datetime' and 'dict'
 2025-06-14 16:54:30,490 - Focusbot - INFO - Rôle éligible trouvé pour victorlano: Aucun
 2025-06-14 16:54:30,676 - Focusbot - INFO - Vérification du rôle pour vgvmook avec 0.0 heures
 2025-06-14 16:54:30,676 - Focusbot - INFO - Rôle éligible trouvé pour vgvmook: Aucun
+2025-06-14 16:59:30,878 - Focusbot - INFO - Vérification du rôle pour loysig avec 19.96388888888889 heures
+2025-06-14 16:59:30,879 - Focusbot - INFO - Rôle éligible trouvé pour loysig: Ambitieux
+2025-06-14 16:59:31,067 - Focusbot - INFO - Vérification du rôle pour alternativ.e avec 0.0 heures
+2025-06-14 16:59:31,068 - Focusbot - INFO - Rôle éligible trouvé pour alternativ.e: Aucun
+2025-06-14 16:59:31,245 - Focusbot - INFO - Vérification du rôle pour lucdanzais avec 0.35 heures
+2025-06-14 16:59:31,245 - Focusbot - INFO - Rôle éligible trouvé pour lucdanzais: Aucun
+2025-06-14 16:59:31,420 - Focusbot - INFO - Vérification du rôle pour eldragon_nns avec 3.945 heures
+2025-06-14 16:59:31,420 - Focusbot - INFO - Rôle éligible trouvé pour eldragon_nns: Aucun
+2025-06-14 16:59:31,596 - Focusbot - INFO - Vérification du rôle pour .viico avec 4.9127777777777775 heures
+2025-06-14 16:59:31,597 - Focusbot - INFO - Rôle éligible trouvé pour .viico: Aucun
+2025-06-14 16:59:31,795 - Focusbot - INFO - Vérification du rôle pour victorlano avec 0.049166666666666664 heures
+2025-06-14 16:59:31,795 - Focusbot - INFO - Rôle éligible trouvé pour victorlano: Aucun
+2025-06-14 16:59:31,970 - Focusbot - INFO - Vérification du rôle pour vgvmook avec 0.0 heures
+2025-06-14 16:59:31,971 - Focusbot - INFO - Rôle éligible trouvé pour vgvmook: Aucun
+2025-06-14 17:03:52,179 - Focusbot - INFO - eldragon_nns est entré dans Voc 1
+2025-06-14 17:04:32,134 - Focusbot - INFO - Vérification du rôle pour loysig avec 19.96388888888889 heures
+2025-06-14 17:04:32,134 - Focusbot - INFO - Rôle éligible trouvé pour loysig: Ambitieux
+2025-06-14 17:04:32,332 - Focusbot - INFO - Vérification du rôle pour alternativ.e avec 0.0 heures
+2025-06-14 17:04:32,332 - Focusbot - INFO - Rôle éligible trouvé pour alternativ.e: Aucun
+2025-06-14 17:04:32,522 - Focusbot - INFO - Vérification du rôle pour lucdanzais avec 0.35 heures
+2025-06-14 17:04:32,523 - Focusbot - INFO - Rôle éligible trouvé pour lucdanzais: Aucun
+2025-06-14 17:04:32,699 - Focusbot - INFO - Vérification du rôle pour eldragon_nns avec 3.945 heures
+2025-06-14 17:04:32,699 - Focusbot - INFO - Rôle éligible trouvé pour eldragon_nns: Aucun
+2025-06-14 17:04:32,879 - Focusbot - INFO - Vérification du rôle pour .viico avec 4.996111111111111 heures
+2025-06-14 17:04:32,880 - Focusbot - INFO - Rôle éligible trouvé pour .viico: Aucun
+2025-06-14 17:04:33,054 - Focusbot - INFO - Vérification du rôle pour victorlano avec 0.049166666666666664 heures
+2025-06-14 17:04:33,054 - Focusbot - INFO - Rôle éligible trouvé pour victorlano: Aucun
+2025-06-14 17:04:33,251 - Focusbot - INFO - Vérification du rôle pour vgvmook avec 0.0 heures
+2025-06-14 17:04:33,252 - Focusbot - INFO - Rôle éligible trouvé pour vgvmook: Aucun
