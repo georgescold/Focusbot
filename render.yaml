@@ -1,11 +1,8 @@
 services:
   - type: web
     name: focusbot
-    env: python
-    buildCommand: |
-      apt-get update && apt-get install -y python3-dev libffi-dev libnacl-dev
-      pip install -r requirements.txt
-    startCommand: python main.py
+    env: docker
+    dockerfilePath: ./Dockerfile
     envVars:
       - key: DISCORD_TOKEN
         sync: false
