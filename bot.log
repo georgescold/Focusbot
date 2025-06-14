@@ -6692,3 +6692,53 @@ TypeError: unsupported operand type(s) for -: 'datetime.datetime' and 'dict'
 2025-06-14 17:04:33,054 - Focusbot - INFO - Rôle éligible trouvé pour victorlano: Aucun
 2025-06-14 17:04:33,251 - Focusbot - INFO - Vérification du rôle pour vgvmook avec 0.0 heures
 2025-06-14 17:04:33,252 - Focusbot - INFO - Rôle éligible trouvé pour vgvmook: Aucun
+2025-06-14 17:09:33,434 - Focusbot - INFO - Vérification du rôle pour loysig avec 19.96388888888889 heures
+2025-06-14 17:09:33,434 - Focusbot - INFO - Rôle éligible trouvé pour loysig: Ambitieux
+2025-06-14 17:09:33,628 - Focusbot - INFO - Vérification du rôle pour alternativ.e avec 0.0 heures
+2025-06-14 17:09:33,628 - Focusbot - INFO - Rôle éligible trouvé pour alternativ.e: Aucun
+2025-06-14 17:09:33,832 - Focusbot - INFO - Vérification du rôle pour lucdanzais avec 0.35 heures
+2025-06-14 17:09:33,833 - Focusbot - INFO - Rôle éligible trouvé pour lucdanzais: Aucun
+2025-06-14 17:09:34,026 - Focusbot - INFO - Vérification du rôle pour eldragon_nns avec 4.028333333333333 heures
+2025-06-14 17:09:34,026 - Focusbot - INFO - Rôle éligible trouvé pour eldragon_nns: Aucun
+2025-06-14 17:09:34,221 - Focusbot - INFO - Vérification du rôle pour .viico avec 5.079444444444444 heures
+2025-06-14 17:09:34,221 - Focusbot - INFO - Rôle éligible trouvé pour .viico: Starter
+2025-06-14 17:09:34,580 - Focusbot - INFO - Rôle 'Starter' attribué à .viico sur Discord.
+2025-06-14 17:09:34,785 - Focusbot - INFO - Rôle 'Starter' mis à jour dans la base de données pour .viico.
+2025-06-14 17:09:34,982 - Focusbot - INFO - Vérification du rôle pour victorlano avec 0.049166666666666664 heures
+2025-06-14 17:09:34,982 - Focusbot - INFO - Rôle éligible trouvé pour victorlano: Aucun
+2025-06-14 17:09:35,309 - Focusbot - INFO - Vérification du rôle pour vgvmook avec 0.0 heures
+2025-06-14 17:09:35,309 - Focusbot - INFO - Rôle éligible trouvé pour vgvmook: Aucun
+2025-06-14 17:12:15,112 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2025-06-14 17:12:20,503 - Focusbot - INFO - Vérification périodique des rôles annulée
+2025-06-14 17:12:20,503 - Focusbot - INFO - Suivi de session annulé pour .viico
+2025-06-14 17:12:20,635 - Focusbot - INFO - Suivi de session annulé pour eldragon_nns
+2025-06-14 17:12:20,690 - Focusbot - ERROR - Erreur de connexion (tentative 1/5): Shard ID None WebSocket closed with 4004
+2025-06-14 17:12:20,690 - Focusbot - INFO - Tentative de reconnexion dans 1 secondes...
+2025-06-14 17:12:21,788 - Focusbot - INFO - Vérification des mises à jour manquées terminée
+2025-06-14 17:12:21,790 - discord.client - INFO - logging in using static token
+2025-06-14 17:12:21,988 - Focusbot - INFO - Vérification du rôle pour loysig avec 19.96388888888889 heures
+2025-06-14 17:12:21,988 - Focusbot - INFO - Rôle éligible trouvé pour loysig: Ambitieux
+2025-06-14 17:12:22,171 - Focusbot - INFO - Vérification du rôle pour alternativ.e avec 0.0 heures
+2025-06-14 17:12:22,171 - Focusbot - INFO - Rôle éligible trouvé pour alternativ.e: Aucun
+2025-06-14 17:12:22,359 - Focusbot - INFO - Vérification du rôle pour lucdanzais avec 0.35 heures
+2025-06-14 17:12:22,360 - Focusbot - INFO - Rôle éligible trouvé pour lucdanzais: Aucun
+2025-06-14 17:12:22,541 - Focusbot - INFO - Vérification du rôle pour eldragon_nns avec 4.085833333333333 heures
+2025-06-14 17:12:22,541 - Focusbot - INFO - Rôle éligible trouvé pour eldragon_nns: Aucun
+2025-06-14 17:12:22,722 - Focusbot - INFO - Vérification du rôle pour .viico avec 5.1325 heures
+2025-06-14 17:12:22,723 - Focusbot - INFO - Rôle éligible trouvé pour .viico: Starter
+2025-06-14 17:12:22,907 - Focusbot - INFO - Vérification du rôle pour victorlano avec 0.049166666666666664 heures
+2025-06-14 17:12:22,908 - Focusbot - INFO - Rôle éligible trouvé pour victorlano: Aucun
+2025-06-14 17:12:23,082 - Focusbot - INFO - Vérification du rôle pour vgvmook avec 0.0 heures
+2025-06-14 17:12:23,082 - Focusbot - INFO - Rôle éligible trouvé pour vgvmook: Aucun
+2025-06-14 17:12:23,083 - Focusbot - ERROR - Erreur de connexion (tentative 2/5): Session is closed
+2025-06-14 17:12:23,083 - Focusbot - INFO - Tentative de reconnexion dans 2 secondes...
+2025-06-14 17:12:25,100 - Focusbot - ERROR - Erreur lors du chargement des extensions: Extension 'cogs.voice_tracking' is already loaded.
+2025-06-14 17:12:25,100 - Focusbot - ERROR - Erreur de connexion (tentative 3/5): Extension 'cogs.voice_tracking' is already loaded.
+2025-06-14 17:12:25,101 - Focusbot - INFO - Tentative de reconnexion dans 4 secondes...
+2025-06-14 17:12:29,107 - Focusbot - ERROR - Erreur lors du chargement des extensions: Extension 'cogs.voice_tracking' is already loaded.
+2025-06-14 17:12:29,107 - Focusbot - ERROR - Erreur de connexion (tentative 4/5): Extension 'cogs.voice_tracking' is already loaded.
+2025-06-14 17:12:29,108 - Focusbot - INFO - Tentative de reconnexion dans 5 secondes...
+2025-06-14 17:12:34,119 - Focusbot - ERROR - Erreur lors du chargement des extensions: Extension 'cogs.voice_tracking' is already loaded.
+2025-06-14 17:12:34,119 - Focusbot - ERROR - Erreur de connexion (tentative 5/5): Extension 'cogs.voice_tracking' is already loaded.
+2025-06-14 17:12:34,119 - Focusbot - ERROR - Nombre maximum de tentatives de reconnexion atteint
+2025-06-14 17:12:34,120 - Focusbot - INFO - Vérification périodique des rôles annulée

@@ -1,19 +1,20 @@
-# Focusbot - Bot Discord Deep Work Tracker
+# Focusbot
 
-Bot Discord pour suivre et encourager le Deep Work dans votre communauté.
+Un bot Discord pour suivre et encourager le temps passé en vocal, avec des statistiques et des classements.
 
-## Prérequis
+## Fonctionnalités
 
-- Python 3.8 ou supérieur
-- Compte Discord Developer
-- Compte Supabase
-- Serveur Discord
+- Suivi du temps passé en vocal
+- Statistiques détaillées (quotidiennes, hebdomadaires, mensuelles)
+- Système de rôles basé sur le temps passé
+- Classement en direct
+- Système de pause
 
 ## Installation
 
-1. Clonez ce dépôt :
+1. Clonez le repository :
 ```bash
-git clone [URL_DU_REPO]
+git clone https://github.com/georgescold/Focusbot.git
 cd Focusbot
 ```
 
@@ -22,45 +23,29 @@ cd Focusbot
 pip install -r requirements.txt
 ```
 
-3. Configurez les variables d'environnement :
-   - Copiez le fichier `.env.example` en `.env`
-   - Remplissez les variables avec vos informations :
-     - `DISCORD_TOKEN` : Token de votre bot Discord
-     - `GUILD_ID` : ID de votre serveur Discord
-     - `SUPABASE_URL` : URL de votre projet Supabase
-     - `SUPABASE_KEY` : Clé API anonyme Supabase
-     - `SUPABASE_SECRET` : Clé secrète Supabase
-     - `VOICE_CHANNEL_CATEGORY_ID` : ID de la catégorie des salons vocaux
-     - `LEADERBOARD_CHANNEL_ID` : ID du canal pour les classements
+3. Créez un fichier `.env` avec les variables suivantes :
+```env
+DISCORD_TOKEN=votre_token_discord
+GUILD_ID=votre_id_serveur
+SUPABASE_URL=votre_url_supabase
+SUPABASE_KEY=votre_clé_supabase
+SUPABASE_SECRET=votre_secret_supabase
+VOICE_CHANNEL_PAUSE_ID=id_du_canal_vocal_pause
+STATISTIQUES_CHANNEL_ID=id_du_canal_statistiques
+GENERAL_CHANNEL_ID=id_du_canal_general
+CLASSEMENT_LIVE_CHANNEL_ID=id_du_canal_classement
+MINIMUM_DAILY_MINUTES=30
+```
 
-4. Configurez la base de données Supabase :
-   - Créez les tables nécessaires via l'interface Supabase
-   - Les schémas SQL seront fournis dans le dossier `database/`
-
-5. Lancez le bot :
+4. Lancez le bot :
 ```bash
 python main.py
 ```
 
-## Commandes disponibles
+## Commandes
 
-- `/stats` : Affiche vos statistiques personnelles
-- `/classement` : Affiche les classements (jour/semaine/mois)
-- `/streak` : Affiche votre streak actuel
-- `/next-rank` : Indique le prochain rôle à atteindre
-
-## Structure du projet
-
-```
-Focusbot/
-├── main.py              # Point d'entrée du bot
-├── cogs/               # Modules de commandes Discord
-├── database/           # Scripts et schémas de base de données
-├── utils/             # Fonctions utilitaires
-├── config.py          # Configuration du bot
-├── requirements.txt   # Dépendances Python
-└── .env              # Variables d'environnement (à créer)
-```
+- `/stats` - Affiche vos statistiques de temps en vocal
+- `/next-rank` - Affiche le prochain rôle à atteindre
 
 ## Contribution
 
@@ -68,4 +53,4 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou un
 
 ## Licence
 
-MIT 
+Ce projet est sous licence MIT. 
